@@ -1,0 +1,9 @@
+matplotlib.pyplot
+numpy
+pandas
+plotly.express
+plotly.graph_objs
+sklearn.linear_model
+sklearn.metrics
+sklearn.model_selection
+yfinance
